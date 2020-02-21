@@ -11,9 +11,9 @@
 	<groupId>com.aciworldwide</groupId>
 	<artifactId>aciwebapp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
 	<name>aciwebapp</name>
 	<description>Web Application for Jenkins Deployment</description>
+	<packaging>war</packaging>
 
 	<properties>
 		<java.version>1.8</java.version>
